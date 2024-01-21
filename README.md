@@ -11,6 +11,7 @@ ATS Resume Expert is a Streamlit web application designed to assist in analyzing
 
 
 **Image:**
+
 <img width="747" alt="Screenshot 2024-01-21 152319" src="https://github.com/VarsaGupta/ATS-Tracking-LLM-Project-With-Gemini-Pro/assets/125072517/2e797d35-83ae-4e64-95af-1e13d5d8bdfa">
 
 
